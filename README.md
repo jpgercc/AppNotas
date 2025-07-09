@@ -2,6 +2,8 @@
 
 Um editor de texto simples em Java com interface gráfica Swing.
 
+<img width="976" height="733" alt="Image" src="https://github.com/user-attachments/assets/acf08382-0e43-4102-8f78-6eec168195c4" />
+
 ## Funcionalidades
 
 - ✏️ Edição de texto com quebra automática de linha
